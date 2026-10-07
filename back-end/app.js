@@ -83,7 +83,7 @@ app.get('/about', (req, res) => {
 
   res.json({
     title: 'About Us',
-    imageUrl:
+    imageUrl: '/siyona.jpg',
     paragraphs: [
       "Hii! I'm Siyona, and I'm 19 years old (Oct 2006)! I am an undergraduate student at NYU Abu Dhabi, majoring in Computer Science and minoring in Interactive Media and Applied Math. India is my home, but I've also lived in Dubai, Bahrain, and Kenya.",
       "My hobbies include travelling, painting, and playing the electric guitar. I also love watching new shows on Netflix, and am somewhat of a binge-watcher. I'm a Scorpio, and my favorite color is purple. Also, I really love dogs. I think they're the best creatures to exist on this planet. My goal in life is to get a Samoyed dog.",
